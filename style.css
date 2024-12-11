@@ -2,25 +2,25 @@
 <html>
 <head>
 <style>
-h1 {
-  font-size: 40px;
+body {
+  background-color: green;
 }
 
-h2 {
-  font-size: 30px;
+h1 {
+  color: black;
+  text-align: center;
 }
 
 p {
-  font-size: 14px;
+  font-family: verdana;
+  font-size: 20px;
 }
 </style>
 </head>
 <body>
 
-<h1>AHHHHHHHHHHH 1</h1>
-<h2> my bad for screaming 2</h2>
-<p>AHHHHHHHHhHHhhH</p>
-<p>ඞඞඞඞඞඞඞඞඞඞඞ</p>
+<h1>EPIC</h1>
+<p>This is a EPIC.</p>
 
 </body>
 </html>
